@@ -103,7 +103,7 @@ The values of the angle alpha increases of 1° at each cut; for the gammaness va
 To find the best values for these two parameters, we perform a grid search computing the value of Q for every point of the grid, looking for its highest value. For this computation we apply the best classifier again to "test 1".
 
 <div align="center">
- <img src="./Plots/Qfactor.png" alt="Forecasting Model" width="600">
+ <img src="./Plots/Qfactor.png" alt="Forecasting Model" width="450">
 </div>
 
 ## Computation of Observation Time
@@ -114,7 +114,7 @@ The energy spectrum is $\frac{dN}{dE}$ with $N=\frac{n_{\gamma}}{S\cdot\Delta t}
 $\Delta t=\frac{n_{\gamma}}{S\cdot I}$ with $I=\int_{0.05 TeV}^{50 TeV} \frac{dN}{dE} dE$
 
 <div align="center">
- <img src="./Plots/Observation times.png" alt="Forecasting Model" width="600">
+ <img src="./Plots/Observation times.png" alt="Forecasting Model" width="450">
 </div>
 
 
