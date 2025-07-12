@@ -45,7 +45,7 @@ Separate the data according to their class in order to study their features both
 Explore the correlation between different features in the data both for signal and background.
 
 <div align="center">
- <img src="./Plots/corr_matrices.png" alt="Forecasting Model" width="600">
+ <img src="./Plots/corr_matrices.png" alt="Forecasting Model" width="700">
 </div>
 <div align="center">
  <img src="./Plots/corr_plots.png" alt="Forecasting Model" width="600">
@@ -57,8 +57,8 @@ Compare the `fWidth` and `fLength` parameters' distribution applying a cut on `f
 
 
 <p align="center">
-  <img width="300" src="./Plots/small_fsize.png" width="250" alt="Image 1" />
-  <img width="300" src="./Plots/high_fsize.png" width="250" alt="Image 2" />
+  <img width="400" src="./Plots/small_fsize.png" width="250" alt="Image 1" />
+  <img width="400" src="./Plots/high_fsize.png" width="250" alt="Image 2" />
 </p>
 
 ## Principal Component Analysis (PCA)
