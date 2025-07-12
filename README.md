@@ -83,14 +83,13 @@ We want to highlight that it is therefore not possible to adopt accuracy as the 
 
 The best models for each type of classifier are obtained through a grid search, trained and evaluated on 70% of the dataset. Once each best classifier is identified, it will then be tested on the remaining 30% to fine-tune the hyperparameters and evaluate its overall quality metrics.
 
+
+<p align="center">
+  <img width="400" src="./Plots/Rocs.png" width="250" alt="Image 1" />
+  <img width="400" src="./Plots/BestRoc.png" width="250" alt="Image 2" />
+</p>
 <div align="center">
- <img src="./Plots/Rocs.png" alt="Forecasting Model" width="800">
-</div>
-<div align="center">
- <img src="./Plots/BestRoc.png" alt="Forecasting Model" width="800">
-</div>
-<div align="center">
- <img src="./Plots/Final Confusion.png" alt="Forecasting Model" width="800">
+ <img src="./Plots/Final Confusion.png" alt="Forecasting Model" width="400">
 </div>
 
 ## Study of Gammaness and Alpha Cuts
