@@ -45,22 +45,21 @@ Separate the data according to their class in order to study their features both
 Explore the correlation between different features in the data both for signal and background.
 
 <div align="center">
- <img src="./Plots/corr_matrices.png" alt="Forecasting Model" width="800">
+ <img src="./Plots/corr_matrices.png" alt="Forecasting Model" width="600">
 </div>
 <div align="center">
- <img src="./Plots/corr_plots.png" alt="Forecasting Model" width="800">
+ <img src="./Plots/corr_plots.png" alt="Forecasting Model" width="600">
 </div>
 
 ## Rescaling Data with Respect to Energy
 
 Compare the `fWidth` and `fLength` parameters' distribution applying a cut on `fSize`, that is proportional to the number of photons, so to the primary ray energy. We consider a value of `fSize` bigger than its mean plus its standard deviation and a value lower than its mean minus its standard deviation. 
 
-<div align="center">
- <img src="./Plots/small_fsize.png" alt="Forecasting Model" width="300">
-</div>
-<div align="center">
- <img src="./Plots/high_fsize.png" alt="Forecasting Model" width="300">
-</div>
+
+<p align="center">
+  <img width="300" src="./Plots/small_fsize.png" width="250" alt="Image 1" />
+  <img width="300" src="./Plots/high_fsize.png" width="250" alt="Image 2" />
+</p>
 
 ## Principal Component Analysis (PCA)
 
