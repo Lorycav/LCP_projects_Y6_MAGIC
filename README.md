@@ -5,8 +5,8 @@
 The project is a Python-based data analysis tool for the MAGIC telescope. It focuses on the analysis of Monte Carlo generated data to simulate the registration of high-energy gamma particles in a ground-based atmospheric Cherenkov gamma telescope using the imaging technique. The data are labelled as *signal* and *background* according to the origin of the gamma particles.
 
 <p align="center">
-  <img width="400" src="./Plots/IMG_20250712_115647_998.jpg" width="250" alt="Image 1" />
-  <img width="450" src="./Plots/camera_plane.png" width="250" alt="Image 2" />
+  <img width="380" src="./Plots/IMG_20250712_115647_998.jpg" width="250" alt="Image 1" />
+  <img width="430" src="./Plots/camera_plane.png" width="250" alt="Image 2" />
 </p>
 
 
